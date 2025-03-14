@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 207, 215);
+}
+h2 {
+    text-align: center;
+    color: rgb(145, 145, 234);
+    font-family: "Delius Swash Caps", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+article {
+    max-width: 500px; 
+    padding: 20px;
+    margin: 0 auto;
+  }
