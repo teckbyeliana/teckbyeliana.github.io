@@ -1,6 +1,11 @@
 body {
     background-color: rgb(255, 207, 215);
 }
+h1 {
+    text-align: center;
+    color: rgb(138, 208, 138);
+    font-size: 50px;
+}
 h2 {
     text-align: center;
     color: rgb(145, 145, 234);
@@ -12,4 +17,27 @@ article {
     max-width: 500px; 
     padding: 20px;
     margin: 0 auto;
+  }
+  header {
+    background-color: rgb(186, 255, 255);
+    text-align: center;
+    background-size: cover; 
+    padding: 20px 0px 0px 0px
+  }
+  p {
+    text-align: center;
+  }
+  ul {
+    max-width: 10px; 
+    padding: 20px;
+    margin: 0 auto;
+    color: white;
+  }
+  .special {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  #header-pic {
+    margin: 40px 0px 0px 0px;
+    border: 5px solid rgb(129, 131, 255);
   }
